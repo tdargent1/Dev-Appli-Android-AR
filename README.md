@@ -20,5 +20,5 @@ Il fut nécessaire dans un premier temps de chercher une librairie permettant l�
 La librairie ARCORE fut choisie.<br>
 ![Capture3.jpeg](https://image.noelshack.com/fichiers/2019/13/3/1553698162-capture3.jpg)<br>
 
-Résultat final : 
+Résultat final :<br> 
 ![Capture4.png](https://image.noelshack.com/fichiers/2019/13/3/1553698448-capture4.png)<br>

@@ -1,4 +1,4 @@
-# PPE-BTS-SIO-1
+# Développement d'une application ANDROID en AR
 
 ### Présentation de l'entreprise
 

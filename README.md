@@ -18,7 +18,7 @@ Plus précisément,  ce fut le développement d’une application permettant aux
 Il fut nécessaire dans un premier temps de chercher une librairie permettant l’utilisation de l’AR. Cette application n’avait pas pour but d’être finalisée, c’est une application de mise en pratique de l’AR au sein de l’entreprise.
 
 La librairie ARCORE fut choisie.<br>
-![Capture3.jpeg](https://image.noelshack.com/fichiers/2019/13/3/1553698162-capture3.jpg | width=100)<br>
+![Capture3.jpeg](https://image.noelshack.com/fichiers/2019/13/3/1553698162-capture3.jpg =250x250)<br>
 
 Résultat final :<br> 
 ![Capture4.png](https://image.noelshack.com/fichiers/2019/13/3/1553698448-capture4.png)<br>
